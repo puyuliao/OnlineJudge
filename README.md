@@ -1,2 +1,2 @@
 # OnlineJudge
-Some competitive programming question solution.
+ZeroJudge problem solution.
